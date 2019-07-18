@@ -8,7 +8,7 @@ var unanswered = 0;
 
 // Questions array
 var questions = [{
-    question: "Which of these bands does not belong to the new-wave movement",
+    question: "Which of these bands does not belong to the new-wave movement?",
     answerList: ["\"The Cure\"", "\"Pearl Jam\"", "\"Joy Division\"", "\"The Smiths\""],
     answer: 1
 },
