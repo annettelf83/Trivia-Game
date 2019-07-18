@@ -8,30 +8,36 @@ var unanswered = 0;
 
 // Questions array
 var questions = [{
-    question: "Which album sold more records?",
-    answerList: ["Alanis Morissette's \"Jagged Little Pill\"", "Spice Girls' \"Spice\"", "Shania Twain's \"Come On Over\"", "Metallica's \"Metallica\""],
-    answer: 0
-},{
+    question: "Which of these bands does not belong to the new-wave movement",
+    answerList: ["\"The Cure\"", "\"Pearl Jam\"", "\"Joy Division\"", "\"The Smiths\""],
+    answer: 1
+},
+{
     question: "\"Tamagotchi\" is a Japanese portmanteau of what two words?",
     answerList: ["\"keychain\" and \"creature\"", "\"pocket\" and \"animal\"", "\"egg\" and \"watch\"", "\"handheld\" and \"clock\""],
     answer: 2
-},{
+},
+{
     question: "What was the flavor of the soft drink Surge?",
     answerList: ["Lemon", "Lime", "Tropical", "Citrus"],
     answer: 3
-},{
+},
+{
     question: "Who sang the \"Friends\" theme song?",
     answerList: ["Spin Doctors", "The Wallflowers", "Gin Blossoms", "The Rembrandts"],
     answer: 3
-},{
+},
+{
     question: "The 1996 Summer Olympics where held in which U.S. city?",
     answerList: ["San Antonio", "Atlanta", "Denver", "Houston"],
     answer: 1
-},{
+},
+{
     question: "What is the name of the high school in \"Boy Meets World\"?",
     answerList: ["John Adams High School", "John Henry High School", "John Hancock High School", "Johnny Appleseed High School"],
     answer: 0
-},{
+},
+{
     question: "When the iBook was released in 1999, which was NOT one of the five colors available?",
     answerList: ["Tangerine", "Blueberry", "Key Lime", "Watermelon"],
     answer: 3
